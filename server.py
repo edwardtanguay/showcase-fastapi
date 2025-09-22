@@ -12,4 +12,4 @@ def get_flashcards():
 	]}
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=3788)
+    uvicorn.run(app, host="localhost", port=3788, use_colors=False)
