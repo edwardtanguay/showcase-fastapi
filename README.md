@@ -18,3 +18,8 @@ A repo to learn and test FastAPI.
 ## Start server
 
 - `python server.py`
+
+## Test server
+
+- install VSCode [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) extension
+- in **test.rest** click "Send Request"
