@@ -10,3 +10,11 @@ A repo to learn and test FastAPI.
 -   (Windows with bash) `source .venv/Scripts/activate`
 -   (Windows command line) `.venv\Scripts\activate`
 -   `pip install -r requirements.txt`
+
+## Install dependencies
+
+- `pip install -r requirements.txt`
+
+## Start server
+
+- `python server.py`
